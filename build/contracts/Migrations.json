@@ -928,8 +928,8 @@
     "version": "0.6.2+commit.bacdbe57.Emscripten.clang"
   },
   "networks": {},
-  "schemaVersion": "3.3.4",
-  "updatedAt": "2022-01-17T09:57:22.515Z",
+  "schemaVersion": "3.4.10",
+  "updatedAt": "2023-01-20T21:11:38.438Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}

@@ -32,4 +32,4 @@ async function deployRecap(deployer, network, accounts) {
 	console.log("Evaluator " + Evaluator.address)
 }
 
-
+//Nb : truffle migrate --f 2 --to 2 --network goerli
